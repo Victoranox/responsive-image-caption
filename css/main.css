@@ -24,12 +24,14 @@ body {
 
 .content {
   background-color: #e2e2e2;
-  margin: 0;
+  margin-right: auto;
+  margin-left: auto;
   padding: 10px;
 }
 
-h1 {
+h2 {
   font-family: "Denk One", sans-serif;
+  font-size: 1.5rem;
 }
 
 .img-flex {
